@@ -11,7 +11,7 @@ Site Search 360 [Sign Up](https://www.sitesearch360.com/).
 - Get Site Search 360 Site id
 - Fill Site id field in the block configuration
 
-## Available Chat Size:
+## Config Options:
 - Layout
 - Display search box before search results
 - Show Errors
